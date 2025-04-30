@@ -30,3 +30,4 @@ LEDs are used to represent devices — light and fan.
 Commands like "LIGHT ON" or "FAN OFF" trigger the desired output.
 
 #Output
+![Image](https://github.com/user-attachments/assets/a11f6511-5e23-4e0d-969e-b62749c18d20)
